@@ -1,5 +1,5 @@
 # Vaccine-Twitter-Sentiment-Analysis
-Using VADER to classify sentiment of tweets and annotate data.
+Using VADER to classify sentiment of tweets and annotate data. Python Notebook included in main root.
 
  Analysis and report conclusion created May 4, 2021. 
  
